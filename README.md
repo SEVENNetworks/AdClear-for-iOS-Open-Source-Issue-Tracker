@@ -15,7 +15,7 @@ AdClear Plus is an extension for Safari that keeps ads from ruining your browsin
 
 ## Releases
 
-* Latest stable release: [2.0.2](https://github.com/SEVENNetworks/AdClear-for-iOS/releases/tag/v2.0.2)
+* Latest stable release: [2.1.0](https://github.com/SEVENNetworks/AdClear-for-iOS/releases/tag/v2.1.0)
 
 ## Open Source Bug Tracker
 
